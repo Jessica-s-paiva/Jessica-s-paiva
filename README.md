@@ -1,11 +1,11 @@
-Olá eu sou a Jéssica Paiva
+Olá, eu sou a Jéssica Paiva!
 
 - 🔭 Hoje participo da formação em Desenvolvimento Web Fullstack da Resilia Educação em parceria com o EBANX, no programa Códigos do amanhã
-- 🌱 Atualmente estou estudando as seguintes tecnologias: 
+- 💻 Atualmente estou estudando as seguintes tecnologias: 
     - HTML
     - CSS
     - JavaScript
-- 📫 Contate-me no e-mail: jessicapaivamvp@gmail.com
+    - React
 - 😄 Pronome: Ela/dela
 
 <div align="center">
@@ -24,9 +24,9 @@ Olá eu sou a Jéssica Paiva
   ##
   
   <div>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/963859764461305907/963859764461305911" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jessicapaivamvp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jessica-dos-santos-paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 ![Snake animation](https://github.com/Jessica-s-paiva/Jessica-s-paiva/blob/output/github-contribution-grid-snake.svg)
   </div>
