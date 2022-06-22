@@ -5,7 +5,8 @@ Olá, eu sou a Jéssica Paiva!
     - HTML
     - CSS
     - JavaScript
-    - React
+    - Node.Js
+    - MySQL
 - 😄 Pronome: Ela/dela
 
 <div align="center">
