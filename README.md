@@ -2,11 +2,12 @@ Olá, eu sou a Jéssica Paiva!
 
 - 🔭 Hoje participo da formação em Desenvolvimento Web Fullstack da Resilia Educação em parceria com o EBANX, no programa Códigos do amanhã
 - 💻 Atualmente estou estudando as seguintes tecnologias: 
-    - HTML
-    - CSS
     - JavaScript
     - Node.Js
-    - MySQL
+    - Java
+    - CSS
+    - SQL
+    - HTML
 - 😄 Pronome: Ela/dela
 
 <div align="center">
@@ -17,7 +18,6 @@ Olá, eu sou a Jéssica Paiva!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
