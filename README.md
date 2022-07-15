@@ -3,6 +3,7 @@ Olá, eu sou a Jéssica Paiva!
 - 🔭 Hoje participo da formação em Desenvolvimento Web Fullstack da Resilia Educação em parceria com o EBANX, no programa Códigos do amanhã
 - 💻 Atualmente estou estudando as seguintes tecnologias: 
     - JavaScript
+    - React.js
     - Node.Js
     - Java
     - CSS
