@@ -3,10 +3,10 @@ Olá, eu sou a Jéssica Paiva!
 - 🔭 Desenvolvedora fullstack
 - 💻 Atualmente estou estudando as seguintes tecnologias: 
     - Angular
+    - Java
     - JavaScript
     - React.js
     - Node.Js
-    - Java
     - CSS
     - SQL
     - HTML
